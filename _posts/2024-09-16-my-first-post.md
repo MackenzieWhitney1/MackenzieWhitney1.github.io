@@ -9,10 +9,8 @@ tags:
 ---
 > "All things are difficult before they are easy." <cite><a href="https://www.brainyquote.com/quotes/thomas_fuller_125402">Thomas Fuller</a></cite>
 
-The good news is that it's a lot like other templating languages like Pug.
+There are a lot of benefits to using Jekyll, and this utility I feel outweighs the time needed to learn it.
 {: .notice--success}
-I will not talk about the downsides.
-{: .notice--danger}
 
 Steps to Configure GitHub Pages
 - There is a tutorial on GitHub to create one from scratch, but it can be daunting. A template provides structure and features like tags and search.
