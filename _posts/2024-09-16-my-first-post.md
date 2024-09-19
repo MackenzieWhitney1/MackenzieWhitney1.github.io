@@ -4,7 +4,6 @@ categories:
   - Blog
 tags:
   - helloworld
-  - beginner
   - jekyll
 ---
 > "All things are difficult before they are easy." <cite><a href="https://www.brainyquote.com/quotes/thomas_fuller_125402">Thomas Fuller</a></cite>
