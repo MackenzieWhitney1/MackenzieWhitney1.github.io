@@ -1,5 +1,5 @@
 ---
-title: "Java 
+title: "Java and Android Applications with Databases"
 categories:
   - Blog
 tags:
